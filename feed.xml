@@ -1,6 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
+    <Id>t01_rul_amg_spb</Id>
+    <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
+    <Title>Руль AMG для Mercedes-Benz, кожа и карбон</Title>
+    <Description><![CDATA[Руль в стиле AMG для Mercedes-Benz. Кожа с перфорацией, красная двойная строчка, метка на 12 часов, лепестки из карбона.
+
+Подходит на A, C, E, ML и другие модели. Перед покупкой обязательно сверяем по VIN, чтобы не было сюрпризов с разъёмами и подушкой.
+
+Цвет кожи, строчку и метку можно сделать под себя, срок по заказу уточняйте.
+
+Перед выдачей скину фото и видео руля. Самовывоз у метро Беговая, отправлю по России транспортной компанией.
+
+Пишите VIN в сообщения, отвечу по совместимости.]]></Description>
+    <Price>64900</Price>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t01_rul_amg/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t01_rul_amg/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t01_rul_amg/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t01_rul_amg/04.jpg"/></Images>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Аксессуары</GoodsType>
+    <ProductType>Для салона</ProductType>
+    <AccessoryType>Другое</AccessoryType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Новое</Condition>
+  </Ad>
+  <Ad>
+    <Id>t02_uvlazhnitel_spb</Id>
+    <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
+    <Title>Мини-увлажнитель воздуха USB с подсветкой</Title>
+    <Description><![CDATA[Маленький ультразвуковой увлажнитель. Ставится на стол, тумбочку или в машину, питается от USB.
+
+Что умеет:
+- тихий туман, спать не мешает
+- подсветка 7 цветов, отключается
+- до 6 часов на одном баке
+
+Есть белый, мятный и розовый. Напишите, какой нужен, проверю наличие.
+
+Самовывоз у метро Беговая. Могу отправить Авито Доставкой.]]></Description>
+    <Price>790</Price>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t02_uvlazhnitel/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t02_uvlazhnitel/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t02_uvlazhnitel/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t02_uvlazhnitel/04.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t02_uvlazhnitel/05.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t02_uvlazhnitel/06.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t02_uvlazhnitel/07.jpg"/></Images>
+    <Category>Бытовая техника</Category>
+    <GoodsType>Климатическое оборудование</GoodsType>
+    <ProductType>Приборы для обработки воздуха</ProductType>
+    <GoodsSubType>Увлажнители воздуха</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <CountryExpedition>Китай</CountryExpedition>
+  </Ad>
+  <Ad>
+    <Id>t03_shapka_balaklava_spb</Id>
+    <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
+    <Title>Шапка-балаклава 2 в 1, вязаная, 3 цвета</Title>
+    <Description><![CDATA[Шапка, которая раскатывается в балаклаву. Обычно носится как бини с отворотом, а в сильный ветер опускаете и закрываете лицо и шею.
+
+Вязка плотная, держит форму, не колется. Размер универсальный, резинка тянется.
+
+Цвета: чёрный, тёмно-синий, светло-серый.
+
+У метро Беговая можно встретиться и примерить. Отправляю Авито Доставкой.]]></Description>
+    <Price>890</Price>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t03_shapka_balaklava/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t03_shapka_balaklava/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t03_shapka_balaklava/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t03_shapka_balaklava/04.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t03_shapka_balaklava/05.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t03_shapka_balaklava/06.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t03_shapka_balaklava/07.jpg"/></Images>
+    <Category>Одежда, обувь, аксессуары</Category>
+    <GoodsType>Аксессуары</GoodsType>
+    <Apparel>Головные уборы</Apparel>
+    <Condition>Новое с биркой</Condition>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Brand>Без бренда</Brand>
+    <Gender>Унисекс</Gender>
+    <CountryExpedition>Китай</CountryExpedition>
+  </Ad>
+  <Ad>
     <Id>t04_lenta_karbon_spb</Id>
     <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
     <Title>Защитная лента под карбон на пороги 10 см × 3 м</Title>
@@ -27,5 +98,73 @@
     <Condition>Новое</Condition>
     <Material>Пластик</Material>
     <InstallationType>Для порогов</InstallationType>
+  </Ad>
+  <Ad>
+    <Id>t05_ruchka_perevodchik_spb</Id>
+    <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
+    <Title>Ручка-сканер переводчик, 12 языков, офлайн</Title>
+    <Description><![CDATA[Электронная ручка-переводчик. Проводите по строчке в книге, и перевод появляется на экране, а ручка его озвучивает.
+
+Что умеет:
+- сканирует слова, фразы и абзацы
+- голосовой перевод
+- диктофон с шумоподавлением, производитель пишет до 16 часов записи
+- встроенные словари
+- распознаёт текст без интернета
+
+Сканирование: русский, английский, немецкий, французский, испанский, итальянский, португальский, японский, корейский, китайский.
+
+Удобно для учёбы, иностранных статей и инструкций. При встрече у метро Беговая покажу, как работает.]]></Description>
+    <Price>4490</Price>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t05_ruchka_perevodchik/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t05_ruchka_perevodchik/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t05_ruchka_perevodchik/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t05_ruchka_perevodchik/04.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t05_ruchka_perevodchik/05.jpg"/></Images>
+    <Category>Планшеты и электронные книги</Category>
+    <GoodsType>Другое</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <CountryExpedition>Китай</CountryExpedition>
+  </Ad>
+  <Ad>
+    <Id>t06_kanat_triceps_spb</Id>
+    <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
+    <Title>Канат для трицепса на блочный тренажёр</Title>
+    <Description><![CDATA[Канат для тяги на блоке. Им делают разгибания на трицепс, тяги к лицу, молотки на бицепс.
+
+Нейлоновое плетение, резиновые упоры на концах, стальная проушина под карабин. Встаёт на кроссовер и большинство блочных тренажёров.
+
+Карабин в комплект не входит.
+
+Самовывоз у метро Беговая или Авито Доставка.]]></Description>
+    <Price>990</Price>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t06_kanat_triceps/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t06_kanat_triceps/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t06_kanat_triceps/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t06_kanat_triceps/04.jpg"/></Images>
+    <Category>Спорт и отдых</Category>
+    <GoodsType>Фитнес и тренажёры</GoodsType>
+    <FitnessType>Силовые тренажёры и инвентарь</FitnessType>
+    <GoodsSubType>Аксессуары для тренировок</GoodsSubType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <CountryExpedition>Китай</CountryExpedition>
+  </Ad>
+  <Ad>
+    <Id>t11_rul_drift_spb</Id>
+    <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
+    <Title>Спортивный руль 350 мм, дрифт, 6 болтов</Title>
+    <Description><![CDATA[Спортивный руль с глубоким выносом, 350 мм. Обод из экокожи, металлические спицы, крепление на 6 болтов.
+
+Подходит для ВАЗ и иномарок. Нужна ступица-переходник под вашу машину, могу подсказать, какая.
+
+Руль без подушки безопасности, учитывайте это.
+
+Самовывоз у метро Беговая, отправка ТК.]]></Description>
+    <Price>5990</Price>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t11_rul_drift/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t11_rul_drift/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t11_rul_drift/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t11_rul_drift/04.jpg"/></Images>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Аксессуары</GoodsType>
+    <ProductType>Для салона</ProductType>
+    <AccessoryType>Другое</AccessoryType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Новое</Condition>
   </Ad>
 </Ads>

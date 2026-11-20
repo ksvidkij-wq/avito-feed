@@ -170,6 +170,7 @@
     <Color>Чёрный</Color>
     <Gender>Унисекс</Gender>
     <Mechanism>Кварцевые</Mechanism>
+    <StrapType>Браслет</StrapType>
     <CountryExpedition>Китай</CountryExpedition>
   </Ad>
   <Ad>
@@ -197,27 +198,6 @@
     <ProductType>Одежда и обувь</ProductType>
     <ProductSubType>Костюмы</ProductSubType>
     <AdType>Товар приобретён на продажу</AdType>
-    <Condition>Новое</Condition>
-    <CountryExpedition>Китай</CountryExpedition>
-  </Ad>
-  <Ad>
-    <Id>t09_aroma_palochka_spb</Id>
-    <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
-    <Title>Ароматическая палочка-ингалятор без никотина</Title>
-    <Description><![CDATA[Карманная ароматическая палочка. Внутри ароматизированный фильтр, вдыхаете и чувствуете вкус. Табака и никотина нет, ничего не нагревается, заряжать не нужно.
-
-Вкусы: мороженое, апельсин, клубника.
-
-Продаю только совершеннолетним.
-
-Самовывоз у метро Беговая.]]></Description>
-    <Price>290</Price>
-    <ContactMethod>В сообщениях</ContactMethod>
-    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t09_aroma_palochka/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t09_aroma_palochka/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t09_aroma_palochka/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t09_aroma_palochka/04.jpg"/></Images>
-    <Category>Красота и здоровье</Category>
-    <GoodsType>Парфюмерия</GoodsType>
-    <PerfumeryType>Другое</PerfumeryType>
-    <AdType>Товар приобретен на продажу</AdType>
     <Condition>Новое</Condition>
     <CountryExpedition>Китай</CountryExpedition>
   </Ad>

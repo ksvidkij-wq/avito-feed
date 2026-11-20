@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ads formatVersion="3" target="Avito.ru">
+  <Ad>
+    <Id>t04_lenta_karbon_spb</Id>
+    <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
+    <Title>Защитная лента под карбон на пороги 10 см × 3 м</Title>
+    <Description><![CDATA[Самоклеящаяся лента с текстурой 3D карбон. Клеится на пороги, край бампера, педали и любые места, где обычно царапают.
+
+Ширина 10 см, длина рулона 3 м. Этого хватает на пороги всех четырёх дверей.
+
+Как клеить:
+1. обезжирить поверхность
+2. снять подложку
+3. приклеить, разглаживая от центра к краям
+
+Режется обычными ножницами. Подходит на любую машину.
+
+Забрать можно у метро Беговая, отправлю Авито Доставкой. Если берёте несколько рулонов, сделаю скидку.]]></Description>
+    <Price>490</Price>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t04_lenta_karbon/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t04_lenta_karbon/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t04_lenta_karbon/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t04_lenta_karbon/04.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t04_lenta_karbon/05.jpg"/></Images>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Аксессуары</GoodsType>
+    <ProductType>Защита и декор</ProductType>
+    <AccessoryType>Для фар, порогов и бамперов</AccessoryType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <Material>Пластик</Material>
+    <InstallationType>Для порогов</InstallationType>
+  </Ad>
+</Ads>

@@ -301,6 +301,36 @@
     <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
   </Ad>
   <Ad>
+    <Id>s01_sait_msk</Id>
+    <Address>Москва, Кутузовский проспект</Address>
+    <Title>Сайт под ключ: лендинг, магазин, сайт компании</Title>
+    <Description><![CDATA[Нужен сайт, который приводит заявки, а не просто висит? Сделаю под ключ.
+
+Лендинги, сайты для компаний, магазины. Пишу структуру, рисую дизайн, собираю, подключаю домен, оплату и аналитику. Всё адаптировано под телефоны.
+
+Порядок такой:
+1. созваниваемся, разбираем задачу
+2. показываю структуру
+3. дизайн и разработка, каждый шаг согласуем
+4. запуск и месяц бесплатных правок
+
+Цены: лендинг от 25 000 ₽, корпоративный сайт от 45 000 ₽, интернет-магазин от 70 000 ₽, доработки от 3 000 ₽.
+
+Москва и удалённо. Пишите в сообщения.]]></Description>
+    <Price>25000</Price>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s01_sait_msk/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s01_sait_msk/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s01_sait_msk/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s01_sait_msk/04.jpg"/></Images>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
+    <Specialty>Разработка и сопровождение сайтов под ключ</Specialty>
+  </Ad>
+  <Ad>
     <Id>s02_prilozhenie_spb</Id>
     <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
     <Title>Мобильное приложение под ключ iOS и Android</Title>
@@ -316,6 +346,36 @@ MVP от 90 000 ₽. С сервером и админкой от 150 000 ₽. M
     <Price>90000</Price>
     <ContactMethod>В сообщениях</ContactMethod>
     <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s02_prilozhenie_spb/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s02_prilozhenie_spb/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s02_prilozhenie_spb/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s02_prilozhenie_spb/04.jpg"/></Images>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
+    <Specialty>Разработка приложений</Specialty>
+  </Ad>
+  <Ad>
+    <Id>s02_prilozhenie_msk</Id>
+    <Address>Москва, Кутузовский проспект</Address>
+    <Title>Мобильное приложение под ключ iOS и Android</Title>
+    <Description><![CDATA[Есть идея приложения? Доведу её до публикации в сторах.
+
+Что делаю:
+- помогаю сформулировать ТЗ
+- рисую экраны и кликабельный прототип
+- пишу приложение под iOS и Android
+- поднимаю сервер, базу, админку
+- подключаю оплату и уведомления
+- выкладываю в App Store и RuStore
+
+Цены: MVP от 90 000 ₽, полноценное приложение с сервером от 150 000 ₽, приложение внутри Telegram от 40 000 ₽. Поддержка от 5 000 ₽ в месяц.
+
+Москва, онлайн по всей России.]]></Description>
+    <Price>90000</Price>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s02_prilozhenie_msk/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s02_prilozhenie_msk/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s02_prilozhenie_msk/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s02_prilozhenie_msk/04.jpg"/></Images>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
     <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
@@ -358,6 +418,32 @@ MVP от 90 000 ₽. С сервером и админкой от 150 000 ₽. M
     <Specialty>Разработка ботов</Specialty>
   </Ad>
   <Ad>
+    <Id>s03_telegram_bot_msk</Id>
+    <Address>Москва, Кутузовский проспект</Address>
+    <Title>Telegram-бот под ключ: заявки, оплата, рассылки</Title>
+    <Description><![CDATA[Telegram-бот под вашу задачу за несколько дней.
+
+Запись клиентов, приём заявок, оплата, рассылки, каталог, личный кабинет. Подключаю к таблицам и CRM, делаю отдельную админку, запускаю на сервере.
+
+Как работаем: вы описываете задачу, я расписываю сценарий кнопок и ответов, собираю бота и даю потестить. После запуска поддерживаю.
+
+Цены от 10 000 ₽ за простого бота. С оплатой от 20 000 ₽. Сервер и поддержка от 1 500 ₽ в месяц.
+
+Москва и онлайн.]]></Description>
+    <Price>10000</Price>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s03_telegram_bot_msk/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s03_telegram_bot_msk/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s03_telegram_bot_msk/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s03_telegram_bot_msk/04.jpg"/></Images>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
+    <Specialty>Разработка ботов</Specialty>
+  </Ad>
+  <Ad>
     <Id>s04_avtomatizaciya_spb</Id>
     <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
     <Title>Автоматизация бизнеса: CRM, отчёты, интеграции</Title>
@@ -376,6 +462,31 @@ MVP от 90 000 ₽. С сервером и админкой от 150 000 ₽. M
     <Price>15000</Price>
     <ContactMethod>В сообщениях</ContactMethod>
     <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s04_avtomatizaciya_spb/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s04_avtomatizaciya_spb/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s04_avtomatizaciya_spb/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s04_avtomatizaciya_spb/04.jpg"/></Images>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Программирование, настройка CRM</ServiceSubspecies>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
+  </Ad>
+  <Ad>
+    <Id>s04_avtomatizaciya_msk</Id>
+    <Address>Москва, Кутузовский проспект</Address>
+    <Title>Автоматизация бизнеса: CRM, отчёты, интеграции</Title>
+    <Description><![CDATA[Помогаю бизнесу перестать делать руками то, что умеет делать компьютер.
+
+Типичные задачи: заявки с сайта сразу падают в CRM и в Telegram менеджеру, каждое утро на почту приходит отчёт по продажам, остатки обновляются сами, данные с сайтов поставщиков собираются автоматически.
+
+Начинаю с короткого аудита, потом согласуем план и считаем, сколько времени это сэкономит. Внедряю, тестирую, обучаю сотрудников.
+
+Цены: аудит от 3 000 ₽, интеграция от 15 000 ₽, под ключ от 50 000 ₽.
+
+Москва и удалённо.]]></Description>
+    <Price>15000</Price>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s04_avtomatizaciya_msk/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s04_avtomatizaciya_msk/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s04_avtomatizaciya_msk/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s04_avtomatizaciya_msk/04.jpg"/></Images>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
     <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
@@ -413,6 +524,35 @@ MVP от 90 000 ₽. С сервером и админкой от 150 000 ₽. M
     <Prepayment>Нужна</Prepayment>
   </Ad>
   <Ad>
+    <Id>s05_veb_dizain_msk</Id>
+    <Address>Москва, Кутузовский проспект</Address>
+    <Title>Веб-дизайн: сайты, интерфейсы, карточки товаров</Title>
+    <Description><![CDATA[Дизайн, по которому сразу понятно, что вы продаёте и почему у вас.
+
+Делаю:
+- сайты и лендинги
+- интерфейсы приложений
+- карточки товаров для маркетплейсов
+- баннеры и обложки
+
+Схема простая: бриф, концепция в двух вариантах, полный дизайн, передача макетов и исходников разработчику.
+
+Лендинг от 8 000 ₽, карточка от 800 ₽, интерфейс приложения от 25 000 ₽.
+
+Москва, работаю онлайн.]]></Description>
+    <Price>8000</Price>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s05_veb_dizain_msk/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s05_veb_dizain_msk/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s05_veb_dizain_msk/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s05_veb_dizain_msk/04.jpg"/></Images>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Веб- и мобильный дизайн</ServiceSubspecies>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
+  </Ad>
+  <Ad>
     <Id>s06_planirovka_spb</Id>
     <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
     <Title>Планировка квартиры: расстановка мебели и зон</Title>
@@ -428,6 +568,32 @@ MVP от 90 000 ₽. С сервером и админкой от 150 000 ₽. M
     <Price>3000</Price>
     <ContactMethod>В сообщениях</ContactMethod>
     <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s06_planirovka_spb/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s06_planirovka_spb/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s06_planirovka_spb/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s06_planirovka_spb/04.jpg"/></Images>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и отделка</ServiceType>
+    <ServiceSubtype>Дизайн интерьеров</ServiceSubtype>
+    <WorkExperience>1 год</WorkExperience>
+    <MaterialPurchase>Нет</MaterialPurchase>
+  </Ad>
+  <Ad>
+    <Id>s06_planirovka_msk</Id>
+    <Address>Москва, Кутузовский проспект</Address>
+    <Title>Планировка квартиры: расстановка мебели и зон</Title>
+    <Description><![CDATA[Тесно, неудобно, некуда поставить шкаф? Часто дело не в метрах, а в планировке.
+
+Что получите:
+- 2-3 варианта расстановки мебели
+- зонирование, если это студия
+- места для хранения
+- советы по свету и розеткам
+
+Нужен только план квартиры или фото с размерами. Выезд не требуется.
+
+Студия от 3 000 ₽, 1-2 комнаты от 5 000 ₽, дом или 3+ комнат от 8 000 ₽. Срочно за сутки +30%.
+
+Москва и вся Россия онлайн.]]></Description>
+    <Price>3000</Price>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s06_planirovka_msk/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s06_planirovka_msk/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s06_planirovka_msk/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s06_planirovka_msk/04.jpg"/></Images>
     <Category>Предложение услуг</Category>
     <ServiceType>Ремонт и отделка</ServiceType>
     <ServiceSubtype>Дизайн интерьеров</ServiceSubtype>
@@ -461,6 +627,32 @@ MVP от 90 000 ₽. С сервером и админкой от 150 000 ₽. M
     <MaterialPurchase>Нет</MaterialPurchase>
   </Ad>
   <Ad>
+    <Id>s07_dizain_proekt_msk</Id>
+    <Address>Москва, Кутузовский проспект</Address>
+    <Title>Дизайн-проект интерьера онлайн, 3D и чертежи</Title>
+    <Description><![CDATA[Ремонт без дизайн-проекта обычно выходит дороже. Делаю проекты онлайн, по всей России.
+
+Этапы:
+1. обмеры по видео и вашим замерам
+2. утверждаем планировку
+3. 3D-визуализация: стиль, цвета, материалы
+4. альбом чертежей для бригады
+
+Плюс список мебели и материалов со ссылками, чтобы ничего не искать.
+
+Цены: планировка от 300 ₽/м², визуализация от 600 ₽/м², полный проект от 900 ₽/м².
+
+Москва, работаю дистанционно.]]></Description>
+    <Price>900</Price>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s07_dizain_proekt_msk/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s07_dizain_proekt_msk/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s07_dizain_proekt_msk/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s07_dizain_proekt_msk/04.jpg"/></Images>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и отделка</ServiceType>
+    <ServiceSubtype>Дизайн интерьеров</ServiceSubtype>
+    <WorkExperience>1 год</WorkExperience>
+    <MaterialPurchase>Нет</MaterialPurchase>
+  </Ad>
+  <Ad>
     <Id>s08_igra_spb</Id>
     <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
     <Title>Разработка игры: Яндекс Игры, Telegram, мобильные</Title>
@@ -476,6 +668,32 @@ MVP от 90 000 ₽. С сервером и админкой от 150 000 ₽. M
     <Price>40000</Price>
     <ContactMethod>В сообщениях</ContactMethod>
     <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s08_igra_spb/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s08_igra_spb/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s08_igra_spb/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s08_igra_spb/04.jpg"/></Images>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
+    <Specialty>Разработка игр</Specialty>
+  </Ad>
+  <Ad>
+    <Id>s08_igra_msk</Id>
+    <Address>Москва, Кутузовский проспект</Address>
+    <Title>Разработка игры: Яндекс Игры, Telegram, мобильные</Title>
+    <Description><![CDATA[Сделаю игру под вашу идею или бизнес: для продвижения бренда, под монетизацию или просто для души.
+
+Площадки: Яндекс Игры, Telegram, браузер, мобильные.
+
+Как идёт работа: концепт с референсами, прототип, в который уже можно играть, дальше уровни, графика, звук. Потом релиз, и я смотрю метрики первых недель.
+
+Цены от 40 000 ₽. Доработка чужой игры от 5 000 ₽.
+
+Москва и удалённо.]]></Description>
+    <Price>40000</Price>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s08_igra_msk/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s08_igra_msk/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s08_igra_msk/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s08_igra_msk/04.jpg"/></Images>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
     <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
@@ -512,6 +730,34 @@ MVP от 90 000 ₽. С сервером и админкой от 150 000 ₽. M
     <Prepayment>Нужна</Prepayment>
   </Ad>
   <Ad>
+    <Id>s09_excel_msk</Id>
+    <Address>Москва, Кутузовский проспект</Address>
+    <Title>Помощь с Excel и Google Таблицами, формулы, отчёты</Title>
+    <Description><![CDATA[Таблица снова сломалась, формула выдаёт ошибку, а отчёт к утру? Пишите.
+
+Что делаю:
+- формулы любой сложности
+- сводные и графики
+- автоматические отчёты
+- макросы и скрипты
+- таблицы учёта под бизнес
+
+Цены: разовая задача от 1 000 ₽, таблица учёта от 4 000 ₽, макрос от 2 500 ₽.
+
+Москва, онлайн. Срочные задачи беру.]]></Description>
+    <Price>1000</Price>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s09_excel_msk/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s09_excel_msk/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s09_excel_msk/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s09_excel_msk/04.jpg"/></Images>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Программирование, настройка CRM</ServiceSubspecies>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
+  </Ad>
+  <Ad>
     <Id>s10_ekspeditor_spb</Id>
     <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
     <Title>Услуги экспедитора: перевозка груза под ключ</Title>
@@ -529,6 +775,31 @@ MVP от 90 000 ₽. С сервером и админкой от 150 000 ₽. M
     <Price>3000</Price>
     <ContactMethod>В сообщениях</ContactMethod>
     <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s10_ekspeditor_spb/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s10_ekspeditor_spb/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s10_ekspeditor_spb/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s10_ekspeditor_spb/04.jpg"/></Images>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Перевозки и доставка</ServiceType>
+    <ServiceSubtype>Между городами</ServiceSubtype>
+    <Specialty>Другое</Specialty>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <CargoType>Другой</CargoType>
+    <CarryingCapacity>более 20 т</CarryingCapacity>
+  </Ad>
+  <Ad>
+    <Id>s10_ekspeditor_msk</Id>
+    <Address>Москва, Кутузовский проспект</Address>
+    <Title>Услуги экспедитора: перевозка груза под ключ</Title>
+    <Description><![CDATA[Возьму на себя перевозку вашего груза: от поиска машины до закрывающих документов.
+
+- подбор транспорта
+- договор, накладные, страхование
+- контроль на каждом этапе
+- погрузка и разгрузка по запросу
+
+Сборные грузы от 1 500 ₽, по городу от 3 000 ₽, межгород считаю под маршрут.
+
+Москва и область, отправки по РФ.]]></Description>
+    <Price>3000</Price>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s10_ekspeditor_msk/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s10_ekspeditor_msk/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s10_ekspeditor_msk/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s10_ekspeditor_msk/04.jpg"/></Images>
     <Category>Предложение услуг</Category>
     <ServiceType>Перевозки и доставка</ServiceType>
     <ServiceSubtype>Между городами</ServiceSubtype>
@@ -564,6 +835,27 @@ MVP от 90 000 ₽. С сервером и админкой от 150 000 ₽. M
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
   </Ad>
   <Ad>
+    <Id>s11_zapchasti_msk</Id>
+    <Address>Москва, Кутузовский проспект</Address>
+    <Title>Привоз запчастей под ключ по VIN из Китая</Title>
+    <Description><![CDATA[Запчасти под ключ: ищу, проверяю, выкупаю и привожу.
+
+Подбираю по VIN, сравниваю цены у нескольких поставщиков, до отправки показываю фото и видео. Беру на себя доставку и растаможку. Выдача в Москве, отправка по России.
+
+Подбор бесплатно, комиссия от 10%, доставка считается по весу и объёму. Обычно 2-4 недели.
+
+Особенно выгодно на китайские машины и тюнинг. Пишите VIN и что нужно.]]></Description>
+    <Price>1000</Price>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s11_zapchasti_msk/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s11_zapchasti_msk/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s11_zapchasti_msk/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s11_zapchasti_msk/04.jpg"/></Images>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Перевозки и доставка</ServiceType>
+    <ServiceSubtype>Международные</ServiceSubtype>
+    <Specialty>Другое</Specialty>
+    <CargoTransportationType>Мультимодальный</CargoTransportationType>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+  </Ad>
+  <Ad>
     <Id>s12_aukcionnyj_syshchik_spb</Id>
     <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
     <Title>Готовый сервис мониторинга торгов: бот + сайт</Title>
@@ -587,6 +879,42 @@ MVP от 90 000 ₽. С сервером и админкой от 150 000 ₽. M
     <Price>120000</Price>
     <ContactMethod>В сообщениях</ContactMethod>
     <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s12_aukcionnyj_syshchik_spb/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s12_aukcionnyj_syshchik_spb/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s12_aukcionnyj_syshchik_spb/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s12_aukcionnyj_syshchik_spb/04.jpg"/></Images>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
+    <Place>Удалённо</Place>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Нужна</Prepayment>
+    <Specialty>Разработка ботов</Specialty>
+  </Ad>
+  <Ad>
+    <Id>s12_aukcionnyj_syshchik_msk</Id>
+    <Address>Москва, Кутузовский проспект</Address>
+    <Title>Готовый сервис мониторинга торгов: бот + сайт</Title>
+    <Description><![CDATA[Готовый IT-бизнес на подписках: сервис мониторинга торгов «Аукционный сыщик».
+
+Каждый день сам собирает лоты с площадок торгов: земля, авто, имущество. Пользователи настраивают фильтры и получают подходящие лоты в Telegram или на сайте. Зарабатываете на подписках.
+
+Что передаю:
+- Telegram-бот с фильтрами
+- сайт с каталогом и кабинетом
+- админ-бот
+- приём оплаты и пробный период
+- сервер с обслуживанием и обновлениями
+
+Стоимость:
+- 120 000 ₽ за бот и сайт
+- 3 000 ₽/мес сервер и поддержка
+- 20 000 ₽ за подключение вашей платёжки и перенос на ваш домен
+
+Демо покажу онлайн, оформление по договору с ИП.
+
+Москва и онлайн.]]></Description>
+    <Price>120000</Price>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s12_aukcionnyj_syshchik_msk/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s12_aukcionnyj_syshchik_msk/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s12_aukcionnyj_syshchik_msk/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/s12_aukcionnyj_syshchik_msk/04.jpg"/></Images>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
     <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>

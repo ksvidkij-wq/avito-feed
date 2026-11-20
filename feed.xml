@@ -1,29 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
-    <Id>t01_rul_amg_spb</Id>
-    <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
-    <Title>Руль AMG для Mercedes-Benz, кожа и карбон</Title>
-    <Description><![CDATA[Руль в стиле AMG для Mercedes-Benz. Кожа с перфорацией, красная двойная строчка, метка на 12 часов, лепестки из карбона.
-
-Подходит на A, C, E, ML и другие модели. Перед покупкой обязательно сверяем по VIN, чтобы не было сюрпризов с разъёмами и подушкой.
-
-Цвет кожи, строчку и метку можно сделать под себя, срок по заказу уточняйте.
-
-Перед выдачей скину фото и видео руля. Самовывоз у метро Беговая, отправлю по России транспортной компанией.
-
-Пишите VIN в сообщения, отвечу по совместимости.]]></Description>
-    <Price>64900</Price>
-    <ContactMethod>В сообщениях</ContactMethod>
-    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t01_rul_amg/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t01_rul_amg/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t01_rul_amg/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t01_rul_amg/04.jpg"/></Images>
-    <Category>Запчасти и аксессуары</Category>
-    <GoodsType>Аксессуары</GoodsType>
-    <ProductType>Для салона</ProductType>
-    <AccessoryType>Другое</AccessoryType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-  </Ad>
-  <Ad>
     <Id>t02_uvlazhnitel_spb</Id>
     <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
     <Title>Мини-увлажнитель воздуха USB с подсветкой</Title>
@@ -100,53 +77,6 @@
     <InstallationType>Для порогов</InstallationType>
   </Ad>
   <Ad>
-    <Id>t05_ruchka_perevodchik_spb</Id>
-    <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
-    <Title>Ручка-сканер переводчик, 12 языков, офлайн</Title>
-    <Description><![CDATA[Электронная ручка-переводчик. Проводите по строчке в книге, и перевод появляется на экране, а ручка его озвучивает.
-
-Что умеет:
-- сканирует слова, фразы и абзацы
-- голосовой перевод
-- диктофон с шумоподавлением, производитель пишет до 16 часов записи
-- встроенные словари
-- распознаёт текст без интернета
-
-Сканирование: русский, английский, немецкий, французский, испанский, итальянский, португальский, японский, корейский, китайский.
-
-Удобно для учёбы, иностранных статей и инструкций. При встрече у метро Беговая покажу, как работает.]]></Description>
-    <Price>4490</Price>
-    <ContactMethod>В сообщениях</ContactMethod>
-    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t05_ruchka_perevodchik/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t05_ruchka_perevodchik/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t05_ruchka_perevodchik/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t05_ruchka_perevodchik/04.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t05_ruchka_perevodchik/05.jpg"/></Images>
-    <Category>Планшеты и электронные книги</Category>
-    <GoodsType>Другое</GoodsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <CountryExpedition>Китай</CountryExpedition>
-  </Ad>
-  <Ad>
-    <Id>t06_kanat_triceps_spb</Id>
-    <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
-    <Title>Канат для трицепса на блочный тренажёр</Title>
-    <Description><![CDATA[Канат для тяги на блоке. Им делают разгибания на трицепс, тяги к лицу, молотки на бицепс.
-
-Нейлоновое плетение, резиновые упоры на концах, стальная проушина под карабин. Встаёт на кроссовер и большинство блочных тренажёров.
-
-Карабин в комплект не входит.
-
-Самовывоз у метро Беговая или Авито Доставка.]]></Description>
-    <Price>990</Price>
-    <ContactMethod>В сообщениях</ContactMethod>
-    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t06_kanat_triceps/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t06_kanat_triceps/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t06_kanat_triceps/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t06_kanat_triceps/04.jpg"/></Images>
-    <Category>Спорт и отдых</Category>
-    <GoodsType>Фитнес и тренажёры</GoodsType>
-    <FitnessType>Силовые тренажёры и инвентарь</FitnessType>
-    <GoodsSubType>Аксессуары для тренировок</GoodsSubType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <CountryExpedition>Китай</CountryExpedition>
-  </Ad>
-  <Ad>
     <Id>t07_chasy_guags_spb</Id>
     <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
     <Title>Часы GUAGS полностью чёрные, в коробке</Title>
@@ -172,81 +102,6 @@
     <Mechanism>Кварцевые</Mechanism>
     <StrapType>Браслет</StrapType>
     <CountryExpedition>Китай</CountryExpedition>
-  </Ad>
-  <Ad>
-    <Id>t08_kostyum_sobak_spb</Id>
-    <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
-    <Title>Новогодний костюм для собаки, олень/Санта/дино</Title>
-    <Description><![CDATA[Тёплые флисовые костюмы с капюшоном для небольших собак: шпиц, той-терьер, мальтипу, чихуахуа.
-
-Есть три модели:
-- олень с рожками
-- Санта
-- динозавр
-
-Застёгиваются на животе, надеваются быстро. Греют на прогулке, а на новогодних фото выглядят очень смешно.
-
-Размер подберу по замерам: пришлите обхват груди и длину спины собаки.
-
-Самовывоз у метро Беговая или Авито Доставка.]]></Description>
-    <Price>1290</Price>
-    <ContactMethod>В сообщениях</ContactMethod>
-    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t08_kostyum_sobak/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t08_kostyum_sobak/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t08_kostyum_sobak/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t08_kostyum_sobak/04.jpg"/></Images>
-    <Category>Товары для животных</Category>
-    <GoodsType>Собаки и кошки</GoodsType>
-    <GoodsSubType>Для содержания и обустройства</GoodsSubType>
-    <ProductType>Одежда и обувь</ProductType>
-    <ProductSubType>Костюмы</ProductSubType>
-    <AdType>Товар приобретён на продажу</AdType>
-    <Condition>Новое</Condition>
-    <CountryExpedition>Китай</CountryExpedition>
-  </Ad>
-  <Ad>
-    <Id>t10_nasadki_glushitel_spb</Id>
-    <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
-    <Title>Насадки на глушитель двойные, карбон, вход 63 мм</Title>
-    <Description><![CDATA[Двойные насадки на глушитель. Корпус из глянцевого карбона 3K, внутри нержавейка SUS 304, срез синий с радужным переливом.
-
-Размеры:
-- вход 63 мм, подходит на трубы 60-63 мм
-- выход 101 мм
-- длина 176 мм
-
-Ставится на хомут, который идёт в комплекте. Без сварки и сверления, минут 10-15 своими руками.
-
-Перед покупкой замерьте диаметр своей трубы.
-
-Самовывоз у метро Беговая, отправлю ТК по России.]]></Description>
-    <Price>6990</Price>
-    <ContactMethod>В сообщениях</ContactMethod>
-    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t10_nasadki_glushitel/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t10_nasadki_glushitel/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t10_nasadki_glushitel/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t10_nasadki_glushitel/04.jpg"/></Images>
-    <Category>Запчасти и аксессуары</Category>
-    <GoodsType>Аксессуары</GoodsType>
-    <ProductType>Для салона</ProductType>
-    <AccessoryType>Другое</AccessoryType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-  </Ad>
-  <Ad>
-    <Id>t11_rul_drift_spb</Id>
-    <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
-    <Title>Спортивный руль 350 мм, дрифт, 6 болтов</Title>
-    <Description><![CDATA[Спортивный руль с глубоким выносом, 350 мм. Обод из экокожи, металлические спицы, крепление на 6 болтов.
-
-Подходит для ВАЗ и иномарок. Нужна ступица-переходник под вашу машину, могу подсказать, какая.
-
-Руль без подушки безопасности, учитывайте это.
-
-Самовывоз у метро Беговая, отправка ТК.]]></Description>
-    <Price>5990</Price>
-    <ContactMethod>В сообщениях</ContactMethod>
-    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t11_rul_drift/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t11_rul_drift/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t11_rul_drift/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t11_rul_drift/04.jpg"/></Images>
-    <Category>Запчасти и аксессуары</Category>
-    <GoodsType>Аксессуары</GoodsType>
-    <ProductType>Для салона</ProductType>
-    <AccessoryType>Другое</AccessoryType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
   </Ad>
   <Ad>
     <Id>s01_sait_spb</Id>

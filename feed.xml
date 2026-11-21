@@ -77,33 +77,6 @@
     <InstallationType>Для порогов</InstallationType>
   </Ad>
   <Ad>
-    <Id>t07_chasy_guags_spb</Id>
-    <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
-    <Title>Часы GUAGS полностью чёрные, в коробке</Title>
-    <Description><![CDATA[Наручные часы GUAGS, модель 5558-01. Полностью чёрные: корпус, браслет и циферблат. Цифр нет, только стрелки.
-
-Весят около 38 г, на руке почти не ощущаются. Браслет укорачивается под руку.
-
-Идут в коробке, так что подойдут и на подарок.
-
-Встреча у метро Беговая, могу отправить Авито Доставкой.]]></Description>
-    <Price>1490</Price>
-    <ContactMethod>В сообщениях</ContactMethod>
-    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t07_chasy_guags/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t07_chasy_guags/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t07_chasy_guags/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t07_chasy_guags/04.jpg"/></Images>
-    <Category>Часы и украшения</Category>
-    <GoodsType>Часы</GoodsType>
-    <ProductType>Наручные или карманные</ProductType>
-    <ProductSubType>Наручные часы</ProductSubType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <Brand>Другой</Brand>
-    <Color>Чёрный</Color>
-    <Gender>Унисекс</Gender>
-    <Mechanism>Кварцевые</Mechanism>
-    <StrapType>Браслет</StrapType>
-    <CountryExpedition>Китай</CountryExpedition>
-  </Ad>
-  <Ad>
     <Id>s01_sait_spb</Id>
     <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
     <Title>Сайт под ключ: лендинг, магазин, сайт компании</Title>

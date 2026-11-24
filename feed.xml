@@ -766,7 +766,7 @@ MVP от 90 000 ₽. С сервером и админкой от 150 000 ₽. M
     <ContactMethod>В сообщениях</ContactMethod>
     <Delivery>ПВЗ</Delivery>
     <TNVED>9102110000</TNVED>
-    <OKPD2>265212120</OKPD2>
+    <OKPD2>Не требуется</OKPD2>
     <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t07_chasy_guags/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t07_chasy_guags/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t07_chasy_guags/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t07_chasy_guags/04.jpg"/></Images>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
@@ -803,6 +803,7 @@ MVP от 90 000 ₽. С сервером и админкой от 150 000 ₽. M
     <ContactMethod>В сообщениях</ContactMethod>
     <Delivery>ПВЗ</Delivery>
     <TNVED>4201000000</TNVED>
+    <OKPD2>151211120</OKPD2>
     <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t08_kostyum_sobak/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t08_kostyum_sobak/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t08_kostyum_sobak/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t08_kostyum_sobak/04.jpg"/></Images>
     <Category>Товары для животных</Category>
     <GoodsType>Собаки и кошки</GoodsType>

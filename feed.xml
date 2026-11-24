@@ -16,6 +16,7 @@
 Самовывоз у метро Беговая. Могу отправить Авито Доставкой.]]></Description>
     <Price>790</Price>
     <ContactMethod>В сообщениях</ContactMethod>
+    <Delivery>ПВЗ</Delivery>
     <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t02_uvlazhnitel/cover-20261124.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t02_uvlazhnitel/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t02_uvlazhnitel/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t02_uvlazhnitel/04.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t02_uvlazhnitel/05.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t02_uvlazhnitel/06.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t02_uvlazhnitel/07.jpg"/></Images>
     <Category>Бытовая техника</Category>
     <GoodsType>Климатическое оборудование</GoodsType>
@@ -38,6 +39,9 @@
 У метро Беговая можно встретиться и примерить. Отправляю Авито Доставкой.]]></Description>
     <Price>890</Price>
     <ContactMethod>В сообщениях</ContactMethod>
+    <Delivery>ПВЗ</Delivery>
+    <TNVED>6505009000</TNVED>
+    <OKPD2>141942160</OKPD2>
     <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t03_shapka_balaklava/cover-20261124.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t03_shapka_balaklava/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t03_shapka_balaklava/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t03_shapka_balaklava/04.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t03_shapka_balaklava/05.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t03_shapka_balaklava/06.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t03_shapka_balaklava/07.jpg"/></Images>
     <Category>Одежда, обувь, аксессуары</Category>
     <GoodsType>Аксессуары</GoodsType>
@@ -67,6 +71,7 @@
 Забрать можно у метро Беговая, отправлю Авито Доставкой. Если берёте несколько рулонов, сделаю скидку.]]></Description>
     <Price>490</Price>
     <ContactMethod>В сообщениях</ContactMethod>
+    <Delivery>ПВЗ</Delivery>
     <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t04_lenta_karbon/cover-20261124.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t04_lenta_karbon/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t04_lenta_karbon/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t04_lenta_karbon/04.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t04_lenta_karbon/05.jpg"/></Images>
     <Category>Запчасти и аксессуары</Category>
     <GoodsType>Аксессуары</GoodsType>
@@ -759,6 +764,9 @@ MVP от 90 000 ₽. С сервером и админкой от 150 000 ₽. M
 Встреча у метро Беговая, могу отправить Авито Доставкой.]]></Description>
     <Price>590</Price>
     <ContactMethod>В сообщениях</ContactMethod>
+    <Delivery>ПВЗ</Delivery>
+    <TNVED>9102110000</TNVED>
+    <OKPD2>265212120</OKPD2>
     <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t07_chasy_guags/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t07_chasy_guags/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t07_chasy_guags/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t07_chasy_guags/04.jpg"/></Images>
     <Category>Часы и украшения</Category>
     <GoodsType>Часы</GoodsType>
@@ -793,6 +801,8 @@ MVP от 90 000 ₽. С сервером и админкой от 150 000 ₽. M
 Самовывоз у метро Беговая или Авито Доставка.]]></Description>
     <Price>1290</Price>
     <ContactMethod>В сообщениях</ContactMethod>
+    <Delivery>ПВЗ</Delivery>
+    <TNVED>4201000000</TNVED>
     <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t08_kostyum_sobak/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t08_kostyum_sobak/02.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t08_kostyum_sobak/03.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t08_kostyum_sobak/04.jpg"/></Images>
     <Category>Товары для животных</Category>
     <GoodsType>Собаки и кошки</GoodsType>

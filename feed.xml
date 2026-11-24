@@ -42,6 +42,7 @@
     <Category>Одежда, обувь, аксессуары</Category>
     <GoodsType>Аксессуары</GoodsType>
     <Apparel>Головные уборы</Apparel>
+    <HeadwearType>Балаклава</HeadwearType>
     <Condition>Новое с биркой</Condition>
     <AdType>Товар приобретен на продажу</AdType>
     <Brand>Без бренда</Brand>
@@ -51,8 +52,8 @@
   <Ad>
     <Id>t04_lenta_karbon_spb</Id>
     <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
-    <Title>Защитная лента под карбон на пороги 10 см × 3 м</Title>
-    <Description><![CDATA[Самоклеящаяся лента с текстурой 3D карбон. Клеится на пороги, край бампера, педали и любые места, где обычно царапают.
+    <Title>Защитная плёнка на пороги под карбон, 10 см × 3 м</Title>
+    <Description><![CDATA[Самоклеящаяся защитная плёнка в рулоне для автомобильных порогов. Поверхность с текстурой под карбон.
 
 Ширина 10 см, длина рулона 3 м. Этого хватает на пороги всех четырёх дверей.
 
@@ -799,6 +800,25 @@ MVP от 90 000 ₽. С сервером и админкой от 150 000 ₽. M
     <ProductType>Одежда и обувь</ProductType>
     <ProductSubType>Костюмы</ProductSubType>
     <AdType>Товар приобретён на продажу</AdType>
+    <Condition>Новое</Condition>
+    <CountryExpedition>Китай</CountryExpedition>
+  </Ad>
+  <Ad>
+    <Id>t12_chasy_559_usb_spb</Id>
+    <Address>Санкт-Петербург, Туристская улица (м. Беговая)</Address>
+    <Title>Часы 559 с USB-зажигалкой, белый циферблат</Title>
+    <Description><![CDATA[Наручные часы модели 559 со встроенной электрической зажигалкой. Белый циферблат с римскими цифрами, металлический корпус и чёрный ремешок.
+
+Циферблат поворачивается и открывает нагревательный элемент. Зажигалка заряжается через USB.
+
+Самовывоз в Санкт-Петербурге, у метро Беговая.]]></Description>
+    <Price>1290</Price>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Delivery>Выключена</Delivery>
+    <Images><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t12_chasy_559_usb_spb/01.jpg"/><Image url="https://ksvidkij-wq.github.io/avito-feed/img/t12_chasy_559_usb_spb/02.jpg"/></Images>
+    <Category>Коллекционирование</Category>
+    <GoodsType>Пепельницы, зажигалки</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
     <Condition>Новое</Condition>
     <CountryExpedition>Китай</CountryExpedition>
   </Ad>
